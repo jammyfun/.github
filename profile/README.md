@@ -22,7 +22,7 @@
 
 |채널|설명|
 |---|---|
-| 🌐 [jammyfun.com](https://jammyfun.com) | 재미펀의 모든 것 |
+| 🌐 [jammyfun.com](https://jammyfun.com) | 재미펀 공식 홈페이지 |
 | 🎬 [재미펀(유튜브)](https://youtube.com/@jammyfun) | 만드는 과정을 그대로 담는 개발 채널 |
 | ✍️ [Self Developer 생존기(브런치)](https://brunch.co.kr/brunchbook/self-developer) | 퇴사와 독립, 그 분투의 기록 |
 
